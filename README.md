@@ -1,6 +1,6 @@
-# Android Interview Questions (Framework & Applicaation)
+# Android Interview Questions (Framework & Application)
 Android Application and Framework Development Interview Questions I faced during multiple interviews.
-Plese feel free to add you topics and interview questions faced by you.(Only for Android developers)  
+Plese feel free to add topics and interview questions faced by you.(Only for Android developers)  
 
 
 # Android Interview Questions:
