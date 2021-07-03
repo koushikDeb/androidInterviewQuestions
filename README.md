@@ -11,7 +11,7 @@ Plese feel free to add topics and interview questions faced by you.(Only for And
 Note: you cannot calculate euclidean distance with each car that would be too expensive 
 3. Design an Travel application with shared itinerary among a group of travelers
 4. Design a use case: where based URL will be chosen  based on user's location or server availability even if Retrofit builder is already built  with a different URL.
-5. Design an application which digitally logs the exact route and status of any telecommunications cable and fiber optic joint with the click of a button to create infrastructure maps for network operators. An intuitive user interface gives engineers in the field the ability to record every aspect of telecom installation, audits, cabling, jointing and testing, and transfer network updates to the main platform in real-time.*
+5. Design an application which digitally logs the exact route and status of any telecommunications cable and fiber optic joint with the click of a button to create infrastructure maps for network operators. *
 **Note :**  In simple words create a path in maps by  real time location tracking and then reload it when required .
 
 
