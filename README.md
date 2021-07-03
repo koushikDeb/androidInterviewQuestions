@@ -78,7 +78,7 @@ Note: you cannot calculate euclidean distance with each car that would be too ex
 1. Broadcast receivers.  
 2. Services. 
 3. Intents, sticky intents, pending intents.
-4. Fragment , activity, service life-cycle.  
+4. Fragment,activity,service life-cycle and state related questions.  
 5. Activity Stack.
 
 
