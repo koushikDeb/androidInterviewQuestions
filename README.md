@@ -9,9 +9,8 @@ Android Application and Framework Development Interview Questions I answered dur
 Note: you cannot calculate euclidean distance with each car that would be too expensive 
 3. Design an Travel application with shared itinerary among a group of travelers
 4. Design a use case: where based URL will be chosen  based on user's location or server availability even if Retrofit builder is already built  with a different URL.
-5. Design MapAll. 
-https://play.google.com/store/apps/details?id=com.kmco.mapall&hl=en_IN&gl=US
-*MapAll digitally logs the exact route and status of any telecommunications cable and fiber optic joint with the click of a button to create infrastructure maps for network operators. An intuitive user interface gives engineers in the field the ability to record every aspect of telecom installation, audits, cabling, jointing and testing, and transfer network updates to the main platform in real-time.*
+5. Design an application which digitally logs the exact route and status of any telecommunications cable and fiber optic joint with the click of a button to create infrastructure maps for network operators. An intuitive user interface gives engineers in the field the ability to record every aspect of telecom installation, audits, cabling, jointing and testing, and transfer network updates to the main platform in real-time.*
+**Note :**  In simple words create a path in maps by  real time location tracking and then reload it when required .
 
 
 
