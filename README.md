@@ -53,7 +53,7 @@ Note: you cannot calculate euclidean distance with each car that would be too ex
 9. How to communicate from background thread to main thread ?
 
 ## ROOM
-1. What is room ? (*Don't say it is used to implement local database or an alternate for SQLite interview will be over soon :P* )
+1. What is room ? 
 2. How to create ideal repository class.
 3. what is DAO?
 4. what is foreign key how to implement and use it using  room lib.
